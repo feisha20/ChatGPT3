@@ -1,9 +1,9 @@
 {
-  "name": "AI智多星",
+  "name": "chatgpt-web",
   "version": "2.10.8",
   "private": false,
-  "description": "AI智多星",
-  "author": "OpenAI",
+  "description": "ChatGPT Web",
+  "author": "openAI",
   "keywords": [
     "chatgpt-web",
     "chatgpt",
